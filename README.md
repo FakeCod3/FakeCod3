@@ -8,21 +8,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/FakeCod3?label=Follow&style=social)
 
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/FakeCod3/workflows/Waka%20Readme/badge.svg)
 
-### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/FakeCod3/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx FakeCod3 
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/FakeCod3/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
